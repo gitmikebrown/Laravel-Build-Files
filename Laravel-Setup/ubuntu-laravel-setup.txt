@@ -152,7 +152,7 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=laravel
 DB_USERNAME=laravel
-DB_PASSWORD=Qazxsw2!
+DB_PASSWORD=laravel
 
 ##########
 #Troubleshooting
